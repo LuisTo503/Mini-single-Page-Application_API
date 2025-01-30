@@ -44,7 +44,6 @@ Curso: FSJ24A
 
 Aquí hay algunas capturas de pantalla que muestran las características y la interfaz de usuario de la aplicación:
 
-### 1. Pantalla de Inicio
 
 <img width="218" alt="sp-landing" src="https://github.com/user-attachments/assets/6a622a68-c6b3-4bd0-a95b-8ec02dd40a12" />
 <img width="218" alt="sp-landing1" src="https://github.com/user-attachments/assets/b1404b32-89b7-48fa-a45a-e4c476098542" />
@@ -55,7 +54,7 @@ Aquí hay algunas capturas de pantalla que muestran las características y la in
 <img width="224" alt="sp-landing6" src="https://github.com/user-attachments/assets/bd77fe8f-6241-4577-b58f-16e537595255" />
 <img width="242" alt="sp-landing7" src="https://github.com/user-attachments/assets/d10fd18d-f28d-4a66-a34c-07fa716c9e1a" />
 <img width="230" alt="sp-landing8" src="https://github.com/user-attachments/assets/09355bb5-4d60-43fd-b064-18dcb7d78e2c" />
-<img width="230" alt="sp-landing8" src="https://github.com/user-attachments/assets/09355bb5-4d60-43fd-b064-18dcb7d78e2c" />
+
 
 
 
