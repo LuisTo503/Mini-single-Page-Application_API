@@ -40,8 +40,7 @@ Mentor: Kenia Paíz
 Curso: FSJ24A
 
 
-
 ## 🎥 Video de Demostración
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video_id" frameborder="0" allowfullscreen></iframe>
+Mira el video de demostración de la aplicación aquí: [Video de Demostración](https://www.youtube.com/watch?v=tu_video_id)
 
 # ¡Gracias por visitar el repositorio! 🚀
