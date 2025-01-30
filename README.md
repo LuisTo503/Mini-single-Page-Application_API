@@ -46,34 +46,17 @@ Aquí hay algunas capturas de pantalla que muestran las características y la in
 
 ### 1. Pantalla de Inicio
 
-<img width="218" alt="sp-landing"(https://github.com/user-attachments/assets/6a622a68-c6b3-4bd0-a95b-8ec02dd40a12)
+<img width="218" alt="sp-landing" src="https://github.com/user-attachments/assets/6a622a68-c6b3-4bd0-a95b-8ec02dd40a12" />
 <img width="218" alt="sp-landing1" src="https://github.com/user-attachments/assets/b1404b32-89b7-48fa-a45a-e4c476098542" />
 <img width="219" alt="sp-landing2" src="https://github.com/user-attachments/assets/df753ab5-ff41-470c-95e3-19ceb74f123e" />
 <img width="224" alt="sp-landing3" src="https://github.com/user-attachments/assets/50493392-7763-4357-8493-7c178cfabd5c" />
-
-### 2. Pantalla de Inicio
-<img width="218" alt="sp-landing1" src="https://github.com/user-attachments/assets/b1404b32-89b7-48fa-a45a-e4c476098542" />
-
-### 3. Pantalla de Inicio
-<img width="219" alt="sp-landing2" src="https://github.com/user-attachments/assets/df753ab5-ff41-470c-95e3-19ceb74f123e" />
-
-### 4. Pantalla de Inicio
-<img width="224" alt="sp-landing3" src="https://github.com/user-attachments/assets/50493392-7763-4357-8493-7c178cfabd5c" />
-
-### 5. Pantalla de Inicio
 <img width="232" alt="sp-landing4" src="https://github.com/user-attachments/assets/747c723a-cb6c-4ddd-9be9-953dddf4f3ff" />
-
-### 6. Pantalla de Inicio
 <img width="228" alt="sp-landing5" src="https://github.com/user-attachments/assets/782d0e2c-73ec-4484-943f-5c6a42de405a" />
-
-### 7. Pantalla de Inicio
 <img width="224" alt="sp-landing6" src="https://github.com/user-attachments/assets/bd77fe8f-6241-4577-b58f-16e537595255" />
-
-### 8. Pantalla de Inicio
 <img width="242" alt="sp-landing7" src="https://github.com/user-attachments/assets/d10fd18d-f28d-4a66-a34c-07fa716c9e1a" />
-
-### 9. Pantalla de Inicio
 <img width="230" alt="sp-landing8" src="https://github.com/user-attachments/assets/09355bb5-4d60-43fd-b064-18dcb7d78e2c" />
+<img width="230" alt="sp-landing8" src="https://github.com/user-attachments/assets/09355bb5-4d60-43fd-b064-18dcb7d78e2c" />
+
 
 
 # ¡Gracias por visitar el repositorio! 🚀
