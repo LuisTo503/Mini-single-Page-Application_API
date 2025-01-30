@@ -39,10 +39,9 @@ Desarrollador: Luis Tobar
 Mentor: Kenia Paíz
 Curso: FSJ24A
 
-## 📞 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi perfil de GitHub.
+
 
 ## 🎥 Video de Demostración
-Mira el video de demostración de la aplicación aquí: [Video de Demostración](https://www.youtube.com/watch?v=tu_video_id)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video_id" frameborder="0" allowfullscreen></iframe>
 
 # ¡Gracias por visitar el repositorio! 🚀
