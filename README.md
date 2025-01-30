@@ -16,12 +16,13 @@ Este proyecto es una **aplicación CRUD** (Crear, Leer, Actualizar, Eliminar) co
 - **npm**: 6.x
 
 ## 📥 Comandos para Copiar el Repositorio
-'''bash
+```sh
 git clone https://github.com/LuisTo503/Mini-single-Page-Application_API.git
 cd tu-repositorio
 
 
 ## 🚀 Comandos para Inicializarlo
+```sh
 npm install
 npm start
 
