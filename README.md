@@ -10,6 +10,9 @@ Este proyecto es una **aplicación CRUD** (Crear, Leer, Actualizar, Eliminar) co
 - **SweetAlert2**: 11.1.9
 - **Bootstrap**: 5.1.3
 - **Font Awesome**: 6.0.0-beta3
+- <!-- Etiqueta para la base de datos -->
+![Database](https://img.shields.io/badge/Database-Firebase-brightgreen?style=flat&logo=Firebase)
+<img width="284" alt="diagrama_ER" src="https://github.com/user-attachments/assets/97826292-850e-40ed-89b3-416d23551902" />
 
 ## 📦 Versiones
 - **Node.js**: 14.x
@@ -27,36 +30,8 @@ npm install
 npm start
 
 ## 📂 Estructura del Proyecto
-crud-fb-react/
-├── public/
-│   ├── index.html
-│   ├── images/
-│   │   ├── hero.jpg
-│   │   ├── image1.jpg
-│   │   ├── image2.jpg
-│   │   ├── image3.jpg
-│   │   └── anteojos.jpg
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Cart.js
-│   │   ├── Create.js
-│   │   ├── Edit.js
-│   │   ├── LandingPage.js
-│   │   ├── Login.js
-│   │   ├── ProductList.js
-│   │   ├── Register.js
-│   │   ├── Show.js
-│   │   └── UserInfo.js
-│   ├── firebaseConfig/
-│   │   └── firebase.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-└── README.md
+<img width="111" alt="carpetas" src="https://github.com/user-attachments/assets/5132d4e6-d2e6-4e65-b7fc-a0bc97c5ce26" />
+
 
 ## 👤 Créditos
 Desarrollador: Luis Tobar
