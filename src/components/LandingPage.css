@@ -1,0 +1,42 @@
+.hero {
+    position: relative;
+    height: 60vh; /* Altura de la sección hero */
+    overflow: hidden;
+  }
+  
+  .hero img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  
+  .hero-text {
+    position: relative;
+    z-index: 2;
+    color: white;
+    text-align: center;
+  }
+  
+  .hero-text h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+  .hero-text p {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    margin-bottom: 20px; /* Espaciado inferior entre tarjetas */
+  }
+  
+  .card-img-top {
+    height: 200px; /* Altura fija para las imágenes de las tarjetas */
+    object-fit: cover; /* Asegura que la imagen cubra el espacio de la tarjeta */
+  }

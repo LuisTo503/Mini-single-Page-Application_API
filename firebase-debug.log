@@ -1,0 +1,28 @@
+[debug] [2025-01-30T15:59:31.318Z] ----------------------------------------------------------------------
+[debug] [2025-01-30T15:59:31.319Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Luis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-01-30T15:59:31.320Z] CLI Version:   13.29.2
+[debug] [2025-01-30T15:59:31.320Z] Platform:      win32
+[debug] [2025-01-30T15:59:31.320Z] Node Version:  v18.20.6
+[debug] [2025-01-30T15:59:31.320Z] Time:          Thu Jan 30 2025 09:59:31 GMT-0600 (hora estándar central)
+[debug] [2025-01-30T15:59:31.320Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-30T15:59:31.324Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-01-30T15:59:31.324Z] > authorizing via signed-in user (rgbmultimedios@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Luis\Desktop\KODIGO Academy\ACTIVIDADES\crud-fb-react\crud-fb-react
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
