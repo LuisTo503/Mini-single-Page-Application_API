@@ -46,6 +46,10 @@ Aquí hay algunas capturas de pantalla que muestran las características y la in
 
 ### 1. Pantalla de Inicio
 ![sp-landing](https://github.com/user-attachments/assets/c90b55fe-35c4-4224-85cc-b680f5073be4)
+<img width="218" alt="sp-landing1" src="https://github.com/user-attachments/assets/b1404b32-89b7-48fa-a45a-e4c476098542" />
+<img width="219" alt="sp-landing2" src="https://github.com/user-attachments/assets/df753ab5-ff41-470c-95e3-19ceb74f123e" />
+<img width="224" alt="sp-landing3" src="https://github.com/user-attachments/assets/50493392-7763-4357-8493-7c178cfabd5c" />
+
 ### 2. Pantalla de Inicio
 <img width="218" alt="sp-landing1" src="https://github.com/user-attachments/assets/b1404b32-89b7-48fa-a45a-e4c476098542" />
 
